@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/dellemc.os6/commit/eb8fee1d4acebb5186bbfbd56169ff6d51831c1d",
       "git:hexsha": "eb8fee1d4acebb5186bbfbd56169ff6d51831c1d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/dellemc.os6/commit/95c66415d8d42f250b9e86853a5b14167fd8ec83",
